@@ -1,0 +1,4 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = ssh://victor@Deathstar/media/nas3/models
