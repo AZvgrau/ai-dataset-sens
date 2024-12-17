@@ -2,11 +2,11 @@
 
 |                | Valid set   | Test set   |
 |-----------------|---------------|----------------|
-| Nb preds.   | NA  | NA  |
-| Nb images   | NA  | NA  |
-| Nb pos images   | NA  | NA  |
+| Nb preds.   | 542  | 573  |
+| Nb images   | 470  | 520  |
+| Nb pos images   | 202  | 192  |
 
 
 ### Organ distribution
 
-![](${val_organ_dist_img_path})
+![](media/organ_distrib.png)
